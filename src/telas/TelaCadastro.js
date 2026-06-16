@@ -232,6 +232,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     color: "#333333",
     elevation: 3,
+    marginBottom: 16,
   },
 
   erro: {

@@ -152,11 +152,11 @@ const styles = StyleSheet.create({
   conteudo: {
     flex: 1,
     alignItems: "center",
+    justifyContent: "center",
   },
 
   formulario: {
     width: "80%",
-    marginTop: 140,
     alignItems: "center",
   },
 
@@ -169,6 +169,7 @@ const styles = StyleSheet.create({
     fontSize: 18,
     color: "#333333",
     elevation: 4,
+    marginBottom:18,
   },
 
   erro: {
