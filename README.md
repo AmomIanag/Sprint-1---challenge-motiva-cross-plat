@@ -1,4 +1,4 @@
-# Motiva Green Vision — Monitoramento Inteligente de Vegetação
+# Motiva Challenge — Monitoramento Inteligente de Vegetação
 
 Aplicativo mobile para monitoramento inteligente de vegetação e apoio à conservação de rodovias da concessionária Motiva.
 
